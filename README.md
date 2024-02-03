@@ -9,7 +9,7 @@ This Python project scrapes a list of expired domains from a Danish hosting comp
 - [x] Inserts the extracted domain names into a MariaDB database for further analysis or processing.
 - [ ] Threading support is not currently implemented.
 
-## Setup
+## Get started
 .env
 ```conf
 DEBUG=False
