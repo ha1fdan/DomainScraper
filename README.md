@@ -16,16 +16,16 @@ DEBUG=False
 URL="https://www.simply.com/en/ninja/"
 
 # Proxy details
-PROXY_HOST='109.201.152.178' #Default for PIA Proxy
-PROXY_PORT='1080'            #Default for PIA Proxy
-PROXY_USERNAME=''            #Your proxy username
-PROXY_PASSWORD=''            #Your proxy password
+PROXY_HOST='proxy-nl.privateinternetaccess.com' #Default for PIA Proxy
+PROXY_PORT='1080'                               #Default for PIA Proxy
+PROXY_USERNAME=''                               #Your proxy username
+PROXY_PASSWORD=''                               #Your proxy password
 
 # MariaDB details
-DB_HOST='localhost'         #Database host
-DB_USER='root'              #Database username
-DB_PASSWORD=''              #Database password
-DB_NAME=''                  #Database name
+DB_HOST='localhost'                             #Database host
+DB_USER='root'                                  #Database username
+DB_PASSWORD=''                                  #Database password
+DB_NAME=''                                      #Database name
 ```
 
 ---
